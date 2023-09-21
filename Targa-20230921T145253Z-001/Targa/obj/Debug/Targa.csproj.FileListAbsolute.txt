@@ -1,0 +1,14 @@
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\bin\Debug\Targa.exe.config
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\bin\Debug\Targa.exe
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\bin\Debug\Targa.pdb
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\obj\Debug\Targa.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\obj\Debug\Targa.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\obj\Debug\Targa.exe
+C:\Users\stefa\Desktop\SCUOLA\SISTEMI\Targa\obj\Debug\Targa.pdb
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\bin\Debug\Targa.exe.config
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\bin\Debug\Targa.exe
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\bin\Debug\Targa.pdb
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\obj\Debug\Targa.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\obj\Debug\Targa.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\obj\Debug\Targa.exe
+C:\Users\stefa\Desktop\SCUOLA\GIT\Targa\obj\Debug\Targa.pdb
