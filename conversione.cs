@@ -74,11 +74,22 @@ namespace Conversioni
             }
             return intero;
         }
-        /*
+        
         static int[] Convert_binario_to_decimalePuntato (bool[] bn) 
         {
-
+            int temp = 8, calcoloConv = 0, somma = 0;
+            int[] dp = new int[4];
+            for (int i = 0; i < dp.Length; i++)
+        {
+            for (int j = 0; j < temp; j++)
+        {
+        calcoloConv = (int)(Convert.ToInt32(bn[i]) * Math.Pow(10, 31 - i));
+        somma += calcoloConv; //Somma di volta in volta le singole converisioni che verranno messe dentro all'array
+        }
+        dp[i] = calcoloConv;
+        }
+          return dp;
         }
-        */
+        
     }
 }
